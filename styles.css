@@ -1,0 +1,58 @@
+/* Header */
+header {
+    width: 100%;
+    height: 50px;
+    background-color: orange;
+    border: 2px solid green;
+    padding-top: 15px;
+}
+
+/* Container */
+.container {
+    width: 100vw;
+    height: 100vh;
+}
+
+/* Navigation */
+nav {
+    background-color: purple;
+    color: black;
+    width: 100%;
+    height: 35px;
+}
+
+/* Aside */
+aside {
+    position: absolute;
+    top: 45%;
+    right: 3%;
+    height: 500px;
+    width: 50%;
+    background-color: #FAED6C;
+    padding: 5px;
+}
+
+/* Main content */
+main {
+    position: absolute;
+    top: 45%;
+    right: 65%;
+    height: 500px;
+    width: 30%;
+    background-color: #800080;
+    padding: 10px;
+    border: 4px solid grey;
+    box-sizing: border-box;
+}
+
+
+/* Footer */
+footer {
+    position: fixed;
+    bottom: 2px;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    background-color: darkblue;
+    color: white;
+}
